@@ -1,7 +1,0 @@
-material,n_samples,n_stations,reads_median
-metal,185,123,3116424.0
-glass,170,168,3656700.0
-wood,107,94,2115553.0
-rubber,44,41,387616.0
-metal_wood,34,30,2825631.0
--,11,10,2808944.0
